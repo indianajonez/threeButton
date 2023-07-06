@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
+    
     // MARK: - Private properties
     
     private lazy var firstButton: UIButton = {
@@ -120,7 +121,7 @@ class ViewController: UIViewController {
 
 
     
-    // MARK: - Private methods
+    // MARK: - UIButton
 
 extension UIButton {
     func addTargetToButtonForAnimation() {

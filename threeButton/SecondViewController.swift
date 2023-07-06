@@ -7,10 +7,10 @@
 
 import UIKit
 
-
 class SecondViewController: UIViewController {
     
-    // MARK: - Lifecycles / Init
+    
+    // MARK: - Lifecycles
 
     override func viewDidLoad() {
         super.viewDidLoad()
